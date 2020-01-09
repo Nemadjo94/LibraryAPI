@@ -1,0 +1,4 @@
+-Do a better job for annotations for the models, currently it looks very messy, implement outside annotation
+-Implement Dependency Injection
+-See if SeedData method could be made to run only once so i dont have to comment it out after first use
+-Implement Authorization and Authority framework
